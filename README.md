@@ -14,6 +14,7 @@ Ngoài việc lưu lại lịch học ra, ứng dụng này cũng cho phép bạ
 	<li>Chỉnh sửa hồ sơ người dùng</li>
 	<li>Tải ảnh đại diện từ thư viện ảnh</li>
 </ul>
+
 ## Danh sách thành viên:
 
 
