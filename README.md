@@ -1,6 +1,4 @@
-# Đôi nét về app TKB
-
-I.Giao diện:
+# TKB app
 
 Thiết kế theo hướng đối tượng.
 
