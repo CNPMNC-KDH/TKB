@@ -6,7 +6,6 @@ Thiết kế theo hướng đối tượng.
 
 Dễ tiếp cận, dễ sử dụng, thân thiện với người dùng.
 
-
 II.Chức năng đăng ký, đăng nhập:
 
 Cho phép người dung tạo tài khoản bằng gmail hoặc đăng nhập trực tiếp bằng tài khoản Google.
@@ -40,6 +39,18 @@ Thay đổi mật khẩu.
 VIII.Chức năng quên mật khẩu:
 
 Cho phép người dùng tìm lại mật khẩu bằng câu hỏi bảo mật, gmail, sđt,…
+
+#Thư viện sử dụng:
+
+ReactNaitive, 
+
+#Thành viên:
+
+Dương Thiên Khôi
+
+Nguyễn Thanh Duy
+
+Vũ Duy Việt Hoàng
 
 #Readme
 
